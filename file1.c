@@ -1,6 +1,6 @@
 #include "stdio.h"
 
 int main(void) {
-	printf("hello world! branch ver2x\n");
+	printf("hello world! conflict test\n");
 	return 0;
 }
